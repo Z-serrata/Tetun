@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/Z-serrata/tetun</id>
+    <title>A Space of Tetun</title>
+    <updated>2022-12-06T19:59:17.286Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/Z-serrata/tetun"/>
+    <link rel="self" href="https://github.com/Z-serrata/tetun/atom.xml"/>
+    <subtitle>一个德顿语和其它的小憩之地</subtitle>
+    <logo>https://github.com/Z-serrata/tetun/images/avatar.png</logo>
+    <icon>https://github.com/Z-serrata/tetun/favicon.ico</icon>
+    <rights>All rights reserved 2022, A Space of Tetun</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://github.com/Z-serrata/tetun/post/hello-gridea/</id>
+        <link href="https://github.com/Z-serrata/tetun/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></content>
+    </entry>
+</feed>
